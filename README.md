@@ -22,5 +22,6 @@ E2=1/2*(t2 - act_o2)2
 E_total=E1+E2
 
 
-![image](https://user-images.githubusercontent.com/53977148/137495581-7783b91b-25bf-4451-a0ec-69aca774d278.png)
+
+![Capture](https://user-images.githubusercontent.com/53977148/137501531-0557966e-025d-4c9c-add3-eaf181b147ec.PNG)
 
