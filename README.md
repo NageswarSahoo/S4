@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/53977148/137503300-5e68000e-3190-40b4-b4a4-89f71e01b1e8.PNG)
 # S4
 
 Part 1
@@ -23,6 +24,11 @@ E_total=E1+E2
 
 
 
+![Capture](https://user-images.githubusercontent.com/53977148/137503326-f124687a-bdb6-4c0f-bd37-c37c1c743d61.PNG)
+
+![Capture1](https://user-images.githubusercontent.com/53977148/137502273-740bb820-a4b2-41fb-a3d1-638d3b3102e6.PNG)
+
+
 
 ![Capture3](https://user-images.githubusercontent.com/53977148/137502016-82f599d9-7fb5-4ebf-8774-329228560a62.PNG)
 
@@ -34,7 +40,6 @@ E_total=E1+E2
 
 ![Capture7](https://user-images.githubusercontent.com/53977148/137502163-a6e5d92d-ecea-4e3e-8e33-3638a46a1417.PNG)
 
-![Capture1](https://user-images.githubusercontent.com/53977148/137502273-740bb820-a4b2-41fb-a3d1-638d3b3102e6.PNG)
 
 
 ![lr_0 1](https://user-images.githubusercontent.com/53977148/137502861-f3c1483a-316e-487a-a65f-6b891c50348c.PNG)
