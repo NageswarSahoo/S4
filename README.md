@@ -20,5 +20,7 @@ act_o2=sigmoid(o2)
 E1=1/2*( t1 - act_o1)2
 E2=1/2*(t2 - act_o2)2
 E_total=E1+E2
+
+
 ![image](https://user-images.githubusercontent.com/53977148/137495581-7783b91b-25bf-4451-a0ec-69aca774d278.png)
 
