@@ -3,11 +3,13 @@
 
 Part 1 :
 
-  BackPropagation Details for Below Network
+  Neural Network Architecture 
  
   ![image](https://user-images.githubusercontent.com/53977148/137504158-274818a2-750e-424e-b49b-1e9ca7273972.png)
 
-        
+
+  Forward Propagation Details 
+
     input1=i1
     input2=i2
     actual_output=t1
@@ -25,6 +27,8 @@ Part 1 :
     E_total=E1+E2
     sigmoid(x)=(1/1+exp(-x))
     dsigmoid(x)/dx=sigmoid(x)*(1-sigmoid(x))
+
+  Back Propagation Details
 
     dEtotal/dw5= d(E1+E2)/dw5= dE1/dact_o1*dact_o1/do1*do1/dw5	
     dE1/dact_o1=0.5*2*(t1 - act_o1)*-1 =act_o1 - t1		
@@ -69,6 +73,7 @@ Part 1 :
     dEtotal/dw7 = (act_o2 - t2)*act_o2*(1-act_o2)*act_h1 						
 	dEtotal/dw8 = (act_o2 - t2)*act_o2*(1-act_o2)*act_h2 					
 
+Image from Excel 
 
 ![Capture](https://user-images.githubusercontent.com/53977148/137503326-f124687a-bdb6-4c0f-bd37-c37c1c743d61.PNG)
 
@@ -84,14 +89,26 @@ Part 1 :
 
 ![Capture7](https://user-images.githubusercontent.com/53977148/137502163-a6e5d92d-ecea-4e3e-8e33-3638a46a1417.PNG)
 
+Error graph with Learning Rate 0.1 
+
 ![lr_0 1](https://user-images.githubusercontent.com/53977148/137502861-f3c1483a-316e-487a-a65f-6b891c50348c.PNG)
+
+Error graph with Learning Rate 0.2
 
 ![lr_0 2](https://user-images.githubusercontent.com/53977148/137502866-34cc2084-9784-4020-bec9-cb1139c081df.PNG)
 
+Error graph with Learning Rate 0.5 
+
 ![lr_0 5](https://user-images.githubusercontent.com/53977148/137502873-1dc2ac1b-d102-4e3e-92a6-c8e841579d94.PNG)
+
+Error graph with Learning Rate 0.8
 
 ![lr_0 8](https://user-images.githubusercontent.com/53977148/137503028-7148e8ff-d5ad-4fb5-ac37-5fb8a002f30d.PNG)
 
+Error graph with Learning Rate 1 
+
 ![lr_1](https://user-images.githubusercontent.com/53977148/137503040-f8bd63da-c4ef-462e-a30e-e93db96a68fe.PNG)
+
+Error graph with Learning Rate 2 
 
 ![lr_2](https://user-images.githubusercontent.com/53977148/137503045-0d059ed6-a137-4c3a-a692-958ad6edd180.PNG)
