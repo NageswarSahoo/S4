@@ -1,4 +1,3 @@
-![Capture](https://user-images.githubusercontent.com/53977148/137503300-5e68000e-3190-40b4-b4a4-89f71e01b1e8.PNG)
 # S4
 
 Part 1
@@ -6,21 +5,6 @@ Part 1
 
 BackPropagation Details :
 
-input1=i1
-input2=i2
-actual_output=t1
-actual_output=t2
-h1=i1*w1+i2*w2
-h2=i1*w3+i2*w4
-act_h1=sigmoid(h1)
-act_h2=sigmoid(h2)
-o1= act_h1*w5 + act_h2*w6
-o2= act_h1*w7 + act_h2*w8
-act_o1=sigmoid(o1)
-act_o2=sigmoid(o2)
-E1=1/2*( t1 - act_o1)2
-E2=1/2*(t2 - act_o2)2
-E_total=E1+E2
 
 
 
